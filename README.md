@@ -35,9 +35,9 @@ Inorder to run the website locally on your computer , follow the steps given bel
 
 *Download the files from the github repo.*
 *Go into the downloaded folder and run the command*
->npm install
+`npm install`
 *The above command will install all the required packages and dependencies required for the project
 The final step is to run the following command*
->npm run dev
+`npm run dev`
 *After doing the above steps go to your browser and type localhost:3000.*
 
