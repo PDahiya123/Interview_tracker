@@ -39,7 +39,7 @@ Inorder to run the website locally on your computer , follow the steps given bel
 `npm install`
 
 * The above command will install all the required packages and dependencies required for the project 
-* The final step is to run the following command ###
+* The final step is to run the following command
 
 `npm run dev`
 
