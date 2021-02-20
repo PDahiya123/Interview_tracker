@@ -55,7 +55,7 @@ Inorder to run the website locally on your computer , follow the steps given bel
 
 `npm run dev`
 
- After doing the above steps go to your browser and type localhost:3000.
+ After doing the above steps go to your browser and type localhost:5000.
  
  Before that you have to make a keys.js file in config folder which contain your database details like this:
  `module.exports = {
