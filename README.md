@@ -31,5 +31,13 @@ This project was done under guidance of coding club of IIT Guwahati. Server side
 
 ![8](https://user-images.githubusercontent.com/62893472/108601541-0be05400-73c3-11eb-8757-d522580c2831.png)
 
+Inorder to run the website locally on your computer , follow the steps given below:
 
+*Download the files from the github repo.*
+*Go into the downloaded folder and run the command*
+>npm install
+*The above command will install all the required packages and dependencies required for the project
+The final step is to run the following command*
+>npm run dev
+*After doing the above steps go to your browser and type localhost:3000.*
 
