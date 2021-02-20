@@ -6,27 +6,27 @@ This project was done under guidance of coding club of IIT Guwahati. Server side
 ![1](https://user-images.githubusercontent.com/62893472/108601451-a724f980-73c2-11eb-9440-28a86f22d005.png)
 
 
-**#Signin/signup page**
+## Signin/signup page
 ![2](https://user-images.githubusercontent.com/62893472/108601510-ece1c200-73c2-11eb-8c80-5de535a448f2.png)
 
 
-**#Different Topics related to cp**
+## Different Topics related to cp
 ![3](https://user-images.githubusercontent.com/62893472/108601516-f23f0c80-73c2-11eb-9492-b408083417ca.png)
 
 
-**#Different companies for which you gave interview**
+## Different companies for which you gave interview
 ![4](https://user-images.githubusercontent.com/62893472/108601519-f79c5700-73c2-11eb-8415-451f8091d114.png)
 
 
-**#Admin auth**
+## Admin auth
 ![5](https://user-images.githubusercontent.com/62893472/108601527-fff49200-73c2-11eb-92a4-2145034e4c46.png)
 
 
-**#Admin panel**
+## Admin panel
 ![6](https://user-images.githubusercontent.com/62893472/108601532-0420af80-73c3-11eb-995d-73f157a6400a.png)
 
 
-**#Interview experience**
+## Interview experience
 ![7](https://user-images.githubusercontent.com/62893472/108601536-07b43680-73c3-11eb-81d5-ede59e1a56ee.png)
 
 ![8](https://user-images.githubusercontent.com/62893472/108601541-0be05400-73c3-11eb-8757-d522580c2831.png)
