@@ -5,8 +5,9 @@ This project was done under guidance of coding club of IIT Guwahati. Server side
 
    * [Admin-bro](https://adminbro.com/section-modules.html)
    * [Express](http://expressjs.com/)
-   * [NodeJs](https://nodejs.org/en/docs/)
+   * [Passport](http://www.passportjs.org/docs/)
    * [Mongoose](https://mongoosejs.com/docs/)
+   * [Multer](https://www.npmjs.com/package/multer)
 
 ## Welcome page
 ![1](https://user-images.githubusercontent.com/62893472/108601451-a724f980-73c2-11eb-9440-28a86f22d005.png)
@@ -65,7 +66,7 @@ Inorder to run the website locally on your computer , follow the steps given bel
  
  > This web app was built by me and my team :
    * Pranshu Dahiya
-   * Mesharya mumukush
+   * Mesharya M Choudhary
    * Ujjwal Ranjan
  
  
